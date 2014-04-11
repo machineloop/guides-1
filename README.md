@@ -1,7 +1,7 @@
 Famo.us Guides
 ==============
 
-These are simply copies of the materials availale in our [online guides documentation][famous-guides].
+We put the online guides on the [website][famous-guides] instead.  Good call.  I'll keep this one open for pull requests for corrections.  Your pal, fetterman.
 
 
 
