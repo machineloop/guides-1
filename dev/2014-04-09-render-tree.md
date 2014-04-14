@@ -229,7 +229,7 @@ S1  S2  S3  ⋯  S10
 ```
 
 Notice in the above example, S10 doesn't have to be a Famo.us Surface; it could
-have be a view with its own modifiers, other nodes, even another scrollview.
+have been a view with its own modifiers, other nodes, even another scrollview.
 You could have a scrollview whose first item has a cross-fading opacity between
 two surfaces by letting S10 be its own View with the structure:
 
